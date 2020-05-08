@@ -44,7 +44,7 @@ in the upper right corner of the subscription.
      :alt: Customer preview of a renewal with Odoo Subscriptions
 
 When a subscription needs to be renewed, you have the possibility to use a new button called
-*Renewal quotation*. By clicking on it, a new quotation is created. From there starts a basic sales
+*Renewal quotation*. By clicking on it, a new quotation is created. From there start a basic sales
 flow allowing you to send the quotation by email to your customers or to confirm it. It is better to
 first *Send by email* the quotation to your customers in order to have their confirmation and, then,
 *Confirm* it in **Odoo Sales**.

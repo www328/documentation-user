@@ -199,3 +199,5 @@ to display graphs.
 
 .. image:: ./media/interface-editor-console-odoo-graph.png
   :align: center
+
+
